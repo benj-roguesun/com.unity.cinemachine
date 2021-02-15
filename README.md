@@ -1,3 +1,9 @@
+[![](https://badge-proxy.cds.internal.unity3d.com/bf7eec10-a31e-409b-aa2a-6f74f99ee820)](https://badges.cds.internal.unity3d.com/packages/com.unity.cinemachine/build-info?branch=master&testWorkflow=package-isolation)
+[![](https://badge-proxy.cds.internal.unity3d.com/9c5871ae-40c3-40af-b6f2-d91e6c7ca903)](https://badges.cds.internal.unity3d.com/packages/com.unity.cinemachine/dependants-info)
+[![](https://badge-proxy.cds.internal.unity3d.com/857aa84c-dbe8-4cf9-b213-365226b2c44c)](https://badges.cds.internal.unity3d.com/packages/com.unity.cinemachine/warnings-info?branch=master)
+![ReleaseBadge](https://badge-proxy.cds.internal.unity3d.com/e0915fb2-0eac-44d2-99b1-9bc4736e6fb6)
+![ReleaseBadge](https://badge-proxy.cds.internal.unity3d.com/9193e5b1-b079-458f-a8fa-19ad62f8a424)
+
 # Cinemachine
 
 ## What is Cinemachine?
