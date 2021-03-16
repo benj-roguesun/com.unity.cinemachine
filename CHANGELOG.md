@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Bugfix: FramingTransposer's TargetMovementOnly damping caused a flick
 - Bugfix: CM StoryBoard lost viewport reference after hot reload
 - Bugfix: CM StoryBoard had a 1 pixel border.
-- Bugfix: SaveDuringPlay also works on prefab instances
+- Bugfix: SaveDuringPlay now works on prefab instances.
 - Bugfix: long-idle vcams when reawakened sometimes had a single frame with a huge deltaTime
 - Bugfix (1290171): Impulse manager was not cleared at playmode start
 - Bugfix (1272146): Adding vcam to a prefab asset no longer causes errors in console
